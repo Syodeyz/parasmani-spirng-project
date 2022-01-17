@@ -8,6 +8,7 @@ public class ParasmaniApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(ParasmaniApplication.class, args);
+        System.out.println("Application ParasMani is running!!");
     }
 
 }
